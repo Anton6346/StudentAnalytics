@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\CP\StudentAnalytics\StudentAnalytics.App\bin\Debug\net7.0\StudentAnalytics.App.exe
+C:\Users\User\Desktop\CP\StudentAnalytics\StudentAnalytics.App\bin\Debug\net7.0\StudentAnalytics.App.deps.json
+C:\Users\User\Desktop\CP\StudentAnalytics\StudentAnalytics.App\bin\Debug\net7.0\StudentAnalytics.App.runtimeconfig.json
+C:\Users\User\Desktop\CP\StudentAnalytics\StudentAnalytics.App\bin\Debug\net7.0\StudentAnalytics.App.dll
+C:\Users\User\Desktop\CP\StudentAnalytics\StudentAnalytics.App\bin\Debug\net7.0\StudentAnalytics.App.pdb
+C:\Users\User\Desktop\CP\StudentAnalytics\StudentAnalytics.App\obj\Debug\net7.0\StudentAnalytics.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\CP\StudentAnalytics\StudentAnalytics.App\obj\Debug\net7.0\StudentAnalytics.App.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CP\StudentAnalytics\StudentAnalytics.App\obj\Debug\net7.0\StudentAnalytics.App.AssemblyInfo.cs
+C:\Users\User\Desktop\CP\StudentAnalytics\StudentAnalytics.App\obj\Debug\net7.0\StudentAnalytics.App.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CP\StudentAnalytics\StudentAnalytics.App\obj\Debug\net7.0\StudentAnalytics.App.dll
+C:\Users\User\Desktop\CP\StudentAnalytics\StudentAnalytics.App\obj\Debug\net7.0\refint\StudentAnalytics.App.dll
+C:\Users\User\Desktop\CP\StudentAnalytics\StudentAnalytics.App\obj\Debug\net7.0\StudentAnalytics.App.pdb
+C:\Users\User\Desktop\CP\StudentAnalytics\StudentAnalytics.App\obj\Debug\net7.0\StudentAnalytics.App.genruntimeconfig.cache
+C:\Users\User\Desktop\CP\StudentAnalytics\StudentAnalytics.App\obj\Debug\net7.0\ref\StudentAnalytics.App.dll
