@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>StudentAnalytics.App</id>
+    <version>1.0.0</version>
+    <authors>Anton</authors>
+    <description>Crossplatform student analytics application</description>
+    <dependencies>
+      <group targetFramework="net7.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\User\Desktop\CP\StudentAnalytics\StudentAnalytics.App\bin\Debug\net7.0\StudentAnalytics.App.runtimeconfig.json" target="lib\net7.0\StudentAnalytics.App.runtimeconfig.json" />
+    <file src="C:\Users\User\Desktop\CP\StudentAnalytics\StudentAnalytics.App\bin\Debug\net7.0\StudentAnalytics.App.dll" target="lib\net7.0\StudentAnalytics.App.dll" />
+  </files>
+</package>

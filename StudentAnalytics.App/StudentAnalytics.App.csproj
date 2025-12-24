@@ -5,6 +5,13 @@
     <TargetFramework>net7.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+
+	  <!-- ДЛЯ LAB 2 -->
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageId>StudentAnalytics.App</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>Anton</Authors>
+    <Description>Crossplatform student analytics application</Description>
   </PropertyGroup>
 
 </Project>
